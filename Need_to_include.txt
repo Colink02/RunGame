@@ -1,0 +1,10 @@
+- Timer
+- onDeathEvent
+- teams autoselector
+- Traps
+- Traps Addon API
+- Traps Addon Method(or Class?)
+- give sword to killer
+- traps GUI
+- override to preselected teams
+- Require economy plugin?
