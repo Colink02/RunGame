@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="murder-run.makejar" default="makejar" basedir=".">
+	<target name="makejar" description="For Travis CI">
+		<jar jarfile="Plugin.jar" includes="*.java" basedir="src"></jar>
+	</target>
+</project>
